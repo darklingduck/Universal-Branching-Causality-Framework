@@ -2,7 +2,7 @@
 
 ## Axiom 1: Causal Ordering
 
-Reality is organized through causality. Events occur in an ordered structure where previous conditions influence future states.
+Reality is organized through causality. Events occur in an ordered structure where causal predecessors influence causal consequences.
 
 ## Axiom 2: Branching Through Causal Divergence
 
@@ -22,15 +22,21 @@ A branch does not duplicate all prior history. All events before an Event Branch
 
 ## Axiom 6: Universal Applicability
 
-Branching is not limited to conscious choices. Any causal event with distinguishable outcomes may create branches.
+Branching is not limited to conscious choices or to any particular physical scale. Any causal event with multiple distinguishable outcomes may constitute an Event Branch Node, including physical, chemical, biological, evolutionary, planetary, stellar, and cosmological events.
+
+The later state of a branch is produced by its complete subsequent Causal Lineage, not by a single earlier EBN alone.
 
 ## Axiom 7: Knowledge Limitation
 
 Observers exist within the causal structure they experience and cannot directly determine conditions outside their accessible causal lineage.
 
-## Axiom 8: Temporal Linearity
+## Axiom 8: Causal Directionality
 
-Within a branch, causal time remains forward-ordered. Time itself does not loop backward. A traveler may move to an earlier temporal position, but that displacement creates new causal continuations rather than reversing the branch's own time order.
+Every Causal Lineage possesses an invariant ordering from causal predecessor to causal consequence. Local physical laws and an ICS's experience or interpretation of temporal direction may differ between causal structures, but those descriptions do not reverse the underlying causal ordering.
+
+Temporal labels such as forward and backward are therefore observer- and structure-relative descriptions. Causal ordering is the more fundamental UBCF relation.
+
+A traveler may move to what its local structure identifies as an earlier temporal position, but that displacement creates new causal continuations rather than reversing or erasing the existing Causal Lineage.
 
 ## Axiom 9: Causal Alteration Preservation
 
