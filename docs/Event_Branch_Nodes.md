@@ -2,7 +2,7 @@
 
 ## Definition
 
-An Event Branch Node is a causal event where multiple distinguishable future causal states exist. The realization of one state creates a new branch.
+An Event Branch Node is a causal event where multiple distinguishable future causal states exist. Each distinguishable outcome continues as its own branch.
 
 ## Conscious and Non-Conscious Events
 
