@@ -10,13 +10,25 @@ A causal event where multiple distinguishable future outcomes exist and each dis
 
 An internal thought or consideration alone does not create an EBN unless it produces a physical causal change.
 
+EBNs are not restricted by scale. Physical, biological, evolutionary, planetary, stellar, and cosmological events may all constitute EBNs when they possess multiple distinguishable causal outcomes.
+
 ## Identity Continuity Structure (ICS)
 
-The continuity of an observer's awareness through a branch. Immediately before an Event Branch Node, there is one shared ICS state. At divergence, each resulting branch inherits an exact copy of that state, after which each ICS continues only within its own branch-local causal history.
+One branch-local continuation of an observer's awareness and identity. Immediately before an Event Branch Node, there is one shared ICS state. At divergence, each resulting branch inherits an exact copy of that state, after which each ICS continues only within its own branch-local causal history.
+
+UBCF does not presently define a universal event at which an ICS first comes into being.
+
+## ICS Lineage Set
+
+The collection of branch-local ICS continuations sharing a common ancestral identity history before divergence. An individual ICS may terminate while other members of its ICS Lineage Set continue.
 
 ## Causal Lineage
 
 The accumulated sequence of causal events leading to a branch's current state. Branches share the same lineage before divergence and develop unique lineage after an Event Branch Node.
+
+## Causal Directionality Principle (CDP)
+
+Every Causal Lineage possesses an invariant ordering from causal predecessor to causal consequence. Local physical laws or an ICS's interpretation of temporal direction may differ, but those descriptions do not reverse the underlying causal ordering.
 
 ## Branch Independence Principle
 

@@ -2,9 +2,21 @@
 
 ## Time Within UBCF
 
-UBCF describes time as the ordering structure of causal events.
+UBCF uses time to describe the ordering of causal events, but treats causal direction as more fundamental than an observer's labels for temporal direction.
 
-Within a branch, this causal ordering remains forward. Time itself does not loop backward. A traveler may move to an earlier temporal position, but doing so creates new causal continuations rather than reversing the branch's own time order.
+Every Causal Lineage is ordered from causal predecessor to causal consequence. An ICS or an entire causal structure may describe or experience that ordering using temporal concepts that differ from those familiar in our branch. What one structure calls forward time could appear reversed when described from another structure.
+
+Those descriptions do not reverse the underlying Causal Lineage. Everything still proceeds from cause to consequence within that lineage.
+
+A traveler may move to what its local causal structure identifies as an earlier temporal position, but doing so creates new causal continuations rather than reversing or erasing the existing lineage.
+
+## Causal Directionality Principle
+
+The **Causal Directionality Principle (CDP)** states that every Causal Lineage possesses an invariant ordering from causal predecessor to causal consequence.
+
+Physical laws, coordinate systems, and the experienced interpretation of temporal direction may differ between causal structures. CDP does not require every ICS to use the same concepts of past, future, forward, or backward. It requires only that causal consequences remain ordered relative to their causal predecessors.
+
+A hypothetical structure with no causal ordering at all is outside the descriptive scope of UBCF rather than something UBCF claims to prove impossible.
 
 ## Limits of Observation
 
@@ -16,7 +28,7 @@ Questions about what existed before time remain open, similar to questions about
 
 ## Causality
 
-Branches develop from causal relationships. Time provides the ordering through which Causal Lineage is formed.
+Branches develop from causal relationships. Temporal experience provides one local way of describing the ordering through which Causal Lineage is formed.
 
 ## Causal Participation
 

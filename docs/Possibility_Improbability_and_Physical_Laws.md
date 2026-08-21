@@ -16,21 +16,27 @@ Possible outcomes may differ in likelihood according to the causal state that pr
 
 ## Improbable Versus Impossible
 
-UBCF does not presently claim a universal definition of impossibility across all branches.
+UBCF does not presently claim a universal definition of physical impossibility across all causal structures.
 
-An event that appears impossible under the physical laws observed in one branch may not establish impossibility across the full branching structure if some more fundamental cosmological divergence could produce different effective laws or definitions.
+An event that appears impossible under the physical laws observed in one branch may not establish impossibility across the full framework if a sufficiently different cosmological or nested-universe history permits different effective laws, constants, geometries, or temporal descriptions.
 
-## Physical Laws Across Branches
+## Physical Laws Across Causal Structures
 
-The framework leaves open whether all branches share identical fundamental physical laws.
+Cosmological events can constitute Event Branch Nodes when they possess multiple distinguishable outcomes. UBCF therefore permits causal histories in which stellar systems, planets, biological evolution, and other large-scale conditions develop radically differently.
 
-A sufficiently early or cosmological-scale divergence could, in principle within the speculative extension of UBCF, produce branches with different constants, effective laws, or geometries.
+Whether the fundamental laws themselves can change as the direct outcome of an ordinary EBN remains an open question.
 
-This is not an established claim of the framework and remains an open question.
+Nested universes provide a separate speculative case: because they may form as new universal causal structures under different originating conditions, UBCF permits the possibility that their relative physical laws differ from those of their parent universe.
+
+## Causal Scope Boundary
+
+Physical laws and experienced descriptions of time may vary, but UBCF requires an ordered causal relation in anything it describes as a Causal Lineage.
+
+This does not mean UBCF proves that a structure without causal ordering is impossible. Rather, such a structure lies outside the descriptive scope of the framework because UBCF would have no Causal Lineage by which to represent it.
 
 ## Epistemic Limitation
 
-Observers only know the laws and causal conditions accessible from their own branch. The existence of infinite or extremely large branching prevents local observation from establishing what is globally possible across every branch.
+Observers only know the laws and causal conditions accessible from their own causal structure. Extremely large or potentially unbounded branching prevents local observation from establishing what is physically possible in every other causal structure.
 
 ## Status
 
