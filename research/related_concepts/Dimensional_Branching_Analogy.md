@@ -68,15 +68,20 @@ Origin
   |
   | shared causal history
   |
- EBN
- / \
-|   |
-|  EBN
-|  / \
-EBN   |
-/ \   |
-...   ...
+ EBN-1
+ /   \
+|     |
+|     | causal continuation
+|     |
+|    EBN-2
+|    /   \
+|   |     |
+|   ...   ...
+|
+...
 ```
+
+The diagram deliberately includes a Causal Lineage segment between EBN-1 and EBN-2. EBN-2 is a later causal event occurring within one continuation created by EBN-1; the EBNs are not directly joined as though one branch node immediately becomes another branch node.
 
 The resulting picture is a causal tree containing shared ancestral histories rather than a collection of fully duplicated timelines extending independently back to the origin.
 
